@@ -6,3 +6,10 @@ print(type(a))
 print(type(b))
 print(type(c))
 print(a,b,c)
+
+e=f=g="tushar"
+print(e,f,g)
+
+name=["tushar","richi","asim"]
+q,r,s=name
+print(q,r,s)
