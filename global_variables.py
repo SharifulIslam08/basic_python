@@ -19,3 +19,5 @@ global z
 z=7
 def myglobal():
    print(z)
+
+myglobal()
